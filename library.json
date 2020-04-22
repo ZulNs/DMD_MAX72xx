@@ -1,0 +1,18 @@
+{
+  "name": "DMD_MAX72xx",
+  "keywords": "display, dot matrix, LED matrix, MAX72xx, MAX7219, MAX7221",
+  "description": "Arduino library implementation for basic controlling MAX7219/MAX7221 dot matrix module, pixel manipulation, and geometric transformation.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ZulNs/DMD_MAX72xx.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "authors":
+  {
+    "name": "ZulNs",
+    "url": "https://zulns.github.io",
+    "maintainer": true
+  }
+}

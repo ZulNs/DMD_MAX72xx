@@ -1,0 +1,111 @@
+#######################################
+# Syntax Coloring Map For DMD_MAX72xx
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DMD_MAX72xx	KEYWORD1
+dev_type_t	KEYWORD1
+point_t	KEYWORD1
+area_t	KEYWORD1
+font_t	KEYWORD1
+font_info_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+init	KEYWORD2
+writeReg	KEYWORD2
+writeEachSegment	KEYWORD2
+writeAllSegments	KEYWORD2
+writeSegment	KEYWORD2
+getColCount	KEYWORD2
+getRowCount	KEYWORD2
+getDisplayArea	KEYWORD2
+getFontSpacing	KEYWORD2
+getFontInfo	KEYWORD2
+getBrightness	KEYWORD2
+setDisplayArea	KEYWORD2
+setDisplayAreaMax	KEYWORD2
+setFontSpacing	KEYWORD2
+setBrightness	KEYWORD2
+getPoint	KEYWORD2
+getArea	KEYWORD2
+refresh	KEYWORD2
+setFont	KEYWORD2
+getChrPtr	KEYWORD2
+getChrWidth	KEYWORD2
+copyChr	KEYWORD2
+drawChr	KEYWORD2
+getStrWidth	KEYWORD2
+getStrWidth_P	KEYWORD2
+drawStr	KEYWORD2
+drawStr_P	KEYWORD2
+drawFontSpacing	KEYWORD2
+marquee	KEYWORD2
+marquee_P	KEYWORD2
+clearDisplay	KEYWORD2
+clearArea	KEYWORD2
+clearBuffer	KEYWORD2
+inverseBuffer	KEYWORD2
+getPixel	KEYWORD2
+putPixel	KEYWORD2
+copy	KEYWORD2
+paste	KEYWORD2
+pasteRotate	KEYWORD2
+drawVerticalLine	KEYWORD2
+drawHorizontalLine	KEYWORD2
+drawLine	KEYWORD2
+drawLine_R	KEYWORD2
+drawRect	KEYWORD2
+drawFilledRect	KEYWORD2
+drawCircle	KEYWORD2
+drawEllipse	KEYWORD2
+flipVertical	KEYWORD2
+flipHorizontal	KEYWORD2
+scrollLeft	KEYWORD2
+scrollRight	KEYWORD2
+scrollUp	KEYWORD2
+scrollDown	KEYWORD2
+scrollTopLeft	KEYWORD2
+scrollRotateTopLeft	KEYWORD2
+scrollBottomLeft	KEYWORD2
+scrollRotateBottomLeft	KEYWORD2
+scrollTopRight	KEYWORD2
+scrollRotateTopRight	KEYWORD2
+scrollBottomRight	KEYWORD2
+scrollRotateBottomRight	KEYWORD2
+
+x	KEYWORD2
+y	KEYWORD2
+left	KEYWORD2
+top	KEYWORD2
+right	KEYWORD2
+bottom	KEYWORD2
+firstAscii	KEYWORD2
+lastAscii	KEYWORD2
+width	KEYWORD2
+height	KEYWORD2
+data	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TYPE_TBLR	LITERAL1
+TYPE_TBRL	LITERAL1
+TYPE_BTLR	LITERAL1
+TYPE_BTRL	LITERAL1
+TYPE_LRTB	LITERAL1
+TYPE_LRBT	LITERAL1
+TYPE_RLTB	LITERAL1
+TYPE_RLBT	LITERAL1
+REG_DECODE_MODE	LITERAL1
+REG_INTENSITY	LITERAL1
+REG_SCAN_LIMIT	LITERAL1
+REG_SHUTDOWN	LITERAL1
+REG_DISPLAY_TEST	LITERAL1
