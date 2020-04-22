@@ -209,47 +209,6 @@ There are also two power supply pins (GND and VCC) to make connection easier.
 
 &nbsp;
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
-
-Column 1 | Column 2 | Column 3
-:---: | :---: | :---:
-**Things** | _Don't_ | [Need](http://makeuseof.com)
-To | __Look__ | `Pretty`
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
-
-&nbsp;
-
-&nbsp;
-
 &nbsp;
 
 ---
