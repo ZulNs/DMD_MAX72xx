@@ -195,7 +195,7 @@ There are also two power supply pins (GND and VCC) to make connection easier.
 
 ![](images/cascading-MAX72xx_LED_matrix.png?raw=true)
 
-***Figure 5. Cascading MAX72xx LED Matrix Module in one row`***
+***Figure 5. Cascading MAX72xx LED Matrix Module in one row***
 
 &nbsp;
 
@@ -205,7 +205,7 @@ There are also two power supply pins (GND and VCC) to make connection easier.
 
 ![](images/cascading-multi-rows-MAX72xx_LED_matrix.png?raw=true)
 
-***Figure 6. Cascading MAX72xx LED Matrix Module in multi rows`***
+***Figure 6. Cascading MAX72xx LED Matrix Module in multi rows***
 
 &nbsp;
 
